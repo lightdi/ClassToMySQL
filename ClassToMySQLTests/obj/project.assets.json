@@ -1,0 +1,66 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "ClassToMySQL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.0",
+        "compile": {
+          "bin/placeholder/ClassToMySQL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ClassToMySQL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ClassToMySQL/1.0.0": {
+      "type": "project",
+      "path": "../ClassToMySQL/ClassToMySQL.csproj",
+      "msbuildProject": "../ClassToMySQL/ClassToMySQL.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.0": [
+      "ClassToMySQL >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Administrador\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\GVE\\ClassToMySQL\\ClassToMySQLTests\\ClassToMySQLTests.csproj",
+      "projectName": "ClassToMySQLTests",
+      "projectPath": "D:\\GVE\\ClassToMySQL\\ClassToMySQLTests\\ClassToMySQLTests.csproj",
+      "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
+      "outputPath": "D:\\GVE\\ClassToMySQL\\ClassToMySQLTests\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Administrador\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "projectReferences": {
+            "D:\\GVE\\ClassToMySQL\\ClassToMySQL\\ClassToMySQL.csproj": {
+              "projectPath": "D:\\GVE\\ClassToMySQL\\ClassToMySQL\\ClassToMySQL.csproj"
+            }
+          }
+        }
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.0": {}
+    }
+  }
+}
