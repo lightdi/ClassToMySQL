@@ -12,6 +12,8 @@ namespace ClassToMySQL.Class.Tests
         [TestMethod()]
         public void OpenClassTest()
         {
+
+            ReadClass readClass = new ReadClass(@"c:\base\Gtoken.cs");
             Assert.Fail();
         }
     }

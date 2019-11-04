@@ -1,0 +1,16 @@
+D:\GVE\ClassToMySQL\ClassToMySQLTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\GVE\ClassToMySQL\ClassToMySQLTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\GVE\ClassToMySQL\ClassToMySQLTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\GVE\ClassToMySQL\ClassToMySQLTests\bin\Debug\netcoreapp2.1\ClassToMySQLTests.deps.json
+D:\GVE\ClassToMySQL\ClassToMySQLTests\bin\Debug\netcoreapp2.1\ClassToMySQLTests.runtimeconfig.json
+D:\GVE\ClassToMySQL\ClassToMySQLTests\bin\Debug\netcoreapp2.1\ClassToMySQLTests.runtimeconfig.dev.json
+D:\GVE\ClassToMySQL\ClassToMySQLTests\bin\Debug\netcoreapp2.1\ClassToMySQLTests.dll
+D:\GVE\ClassToMySQL\ClassToMySQLTests\bin\Debug\netcoreapp2.1\ClassToMySQLTests.pdb
+D:\GVE\ClassToMySQL\ClassToMySQLTests\bin\Debug\netcoreapp2.1\ClassToMySQL.dll
+D:\GVE\ClassToMySQL\ClassToMySQLTests\bin\Debug\netcoreapp2.1\ClassToMySQL.pdb
+D:\GVE\ClassToMySQL\ClassToMySQLTests\obj\Debug\netcoreapp2.1\ClassToMySQLTests.csprojAssemblyReference.cache
+D:\GVE\ClassToMySQL\ClassToMySQLTests\obj\Debug\netcoreapp2.1\ClassToMySQLTests.AssemblyInfoInputs.cache
+D:\GVE\ClassToMySQL\ClassToMySQLTests\obj\Debug\netcoreapp2.1\ClassToMySQLTests.AssemblyInfo.cs
+D:\GVE\ClassToMySQL\ClassToMySQLTests\obj\Debug\netcoreapp2.1\ClassToMySQLTests.csproj.CopyComplete
+D:\GVE\ClassToMySQL\ClassToMySQLTests\obj\Debug\netcoreapp2.1\ClassToMySQLTests.dll
+D:\GVE\ClassToMySQL\ClassToMySQLTests\obj\Debug\netcoreapp2.1\ClassToMySQLTests.pdb

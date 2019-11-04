@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GVE\\ClassToMySQLTests\\ClassToMySQLTests.csproj": {}
+    "D:\\GVE\\ClassToMySQL\\ClassToMySQLTests\\ClassToMySQLTests.csproj": {}
   },
   "projects": {
-    "D:\\GVE\\ClassToMySQLTests\\ClassToMySQLTests.csproj": {
+    "D:\\GVE\\ClassToMySQL\\ClassToMySQLTests\\ClassToMySQLTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GVE\\ClassToMySQLTests\\ClassToMySQLTests.csproj",
+        "projectUniqueName": "D:\\GVE\\ClassToMySQL\\ClassToMySQLTests\\ClassToMySQLTests.csproj",
         "projectName": "ClassToMySQLTests",
-        "projectPath": "D:\\GVE\\ClassToMySQLTests\\ClassToMySQLTests.csproj",
+        "projectPath": "D:\\GVE\\ClassToMySQL\\ClassToMySQLTests\\ClassToMySQLTests.csproj",
         "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
-        "outputPath": "D:\\GVE\\ClassToMySQLTests\\obj\\",
+        "outputPath": "D:\\GVE\\ClassToMySQL\\ClassToMySQLTests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,8 +30,8 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "D:\\GVE\\ClassToMySQL\\ClassToMySQL.csproj": {
-                "projectPath": "D:\\GVE\\ClassToMySQL\\ClassToMySQL.csproj"
+              "D:\\GVE\\ClassToMySQL\\ClassToMySQL\\ClassToMySQL.csproj": {
+                "projectPath": "D:\\GVE\\ClassToMySQL\\ClassToMySQL\\ClassToMySQL.csproj"
               }
             }
           }
@@ -81,14 +81,14 @@
         }
       }
     },
-    "D:\\GVE\\ClassToMySQL\\ClassToMySQL.csproj": {
+    "D:\\GVE\\ClassToMySQL\\ClassToMySQL\\ClassToMySQL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GVE\\ClassToMySQL\\ClassToMySQL.csproj",
+        "projectUniqueName": "D:\\GVE\\ClassToMySQL\\ClassToMySQL\\ClassToMySQL.csproj",
         "projectName": "ClassToMySQL",
-        "projectPath": "D:\\GVE\\ClassToMySQL\\ClassToMySQL.csproj",
+        "projectPath": "D:\\GVE\\ClassToMySQL\\ClassToMySQL\\ClassToMySQL.csproj",
         "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
-        "outputPath": "D:\\GVE\\ClassToMySQL\\obj\\",
+        "outputPath": "D:\\GVE\\ClassToMySQL\\ClassToMySQL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -120,7 +120,11 @@
           "dependencies": {
             "MySql.Data": {
               "target": "Package",
-              "version": "[8.0.17, )"
+              "version": "[8.0.18, )"
+            },
+            "System.CodeDom": {
+              "target": "Package",
+              "version": "[4.6.0, )"
             }
           },
           "imports": [
