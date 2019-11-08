@@ -44,6 +44,10 @@ namespace ClassToMySQL.Class
                         Port = args[i + 1];
                         break;
 
+                    case "-D":
+                        Database = args[i + 1];
+                        break;
+
                     case "-o":
                         Target = args[i + 1];
                         break;
@@ -68,6 +72,7 @@ namespace ClassToMySQL.Class
         public string User { get; set; }
         public string Password { get; set; }
         public string Port { get; set; }
+        public string Database { get; set; }
         public string Target { get; set; }
     }
 }

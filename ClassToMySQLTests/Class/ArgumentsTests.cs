@@ -62,5 +62,6 @@ namespace ClassToMySQL.Class.Tests
             Assert.IsTrue(arguments.Port.Equals(@"3307", StringComparison.OrdinalIgnoreCase));
 
         }
+
     }
 }

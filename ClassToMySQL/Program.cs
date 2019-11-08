@@ -19,6 +19,7 @@ namespace ClassToMySQL
              *  -u To specify the user of the server
              *  -p To specify the password to the server
              *  -P To specify the port of the server, the default is 3006
+             *  -D To specify the database on the server
              *  -o To specify the output folder to Script files
              *  
              *  ex: 
@@ -56,6 +57,7 @@ namespace ClassToMySQL
                 Console.WriteLine("-p To specify the password to the server");
                 Console.WriteLine("-P To specify the port of the server, the default is 3006");
                 Console.WriteLine("-u To specify the user of the server");
+                Console.WriteLine("-D To specify the database on the server");
                 Console.WriteLine("-O To specify the output folder to Script files");
                 Console.WriteLine("ex: ");
                 Console.WriteLine("*From File to Folder");
@@ -68,13 +70,13 @@ namespace ClassToMySQL
                 Console.WriteLine(@"ClassToMySQL -F c:\product -s -o c:\scripts");
                 Console.WriteLine("");
                 Console.WriteLine("*From File to Server");
-                Console.WriteLine(@"ClassToMySQL -f product.cs -S localhost -u root -p password -P 3306 ");
+                Console.WriteLine(@"ClassToMySQL -f product.cs -S localhost -u root -p password -P 3306 -D datababase");
                 Console.WriteLine("");
                 Console.WriteLine("*From Folder to Server");
-                Console.WriteLine(@"ClassToMySQL -F c:\product -S localhost -u root -p password -P 3306 ");
+                Console.WriteLine(@"ClassToMySQL -F c:\product -S localhost -u root -p password -P 3306 -D datababase");
                 Console.WriteLine("");
                 Console.WriteLine("*From Folder and subfolders to Folder");
-                Console.WriteLine(@"ClassToMySQL -F c:\product -s -S localhost -u root -p password -P 3306 ");
+                Console.WriteLine(@"ClassToMySQL -F c:\product -s -S localhost -u root -p password -P 3306 -D datababase");
             }
 
             
