@@ -10,7 +10,7 @@ namespace gData.Tests
         public int mInt { get; set; }
         public string mVarChar { get; set; }
         public double mDouble { get; set; }
-        public long  mLongText { get; set; }
+        public long  mLongId { get; set; }
         public string mBlob { get; set; }
         public DateTime mDate { get; set; }
         public DateTime mDateTime { get; set; }

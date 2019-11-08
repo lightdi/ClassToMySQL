@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GVE\\ClassToMySQL\\ClassToMySQLTests\\ClassToMySQLTests.csproj": {}
+    "F:\\GVE\\ClassToMySQL\\ClassToMySQLTests\\ClassToMySQLTests.csproj": {}
   },
   "projects": {
-    "D:\\GVE\\ClassToMySQL\\ClassToMySQLTests\\ClassToMySQLTests.csproj": {
+    "F:\\GVE\\ClassToMySQL\\ClassToMySQLTests\\ClassToMySQLTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GVE\\ClassToMySQL\\ClassToMySQLTests\\ClassToMySQLTests.csproj",
+        "projectUniqueName": "F:\\GVE\\ClassToMySQL\\ClassToMySQLTests\\ClassToMySQLTests.csproj",
         "projectName": "ClassToMySQLTests",
-        "projectPath": "D:\\GVE\\ClassToMySQL\\ClassToMySQLTests\\ClassToMySQLTests.csproj",
-        "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
-        "outputPath": "D:\\GVE\\ClassToMySQL\\ClassToMySQLTests\\obj\\",
+        "projectPath": "F:\\GVE\\ClassToMySQL\\ClassToMySQLTests\\ClassToMySQLTests.csproj",
+        "packagesPath": "C:\\Users\\light\\.nuget\\packages\\",
+        "outputPath": "F:\\GVE\\ClassToMySQL\\ClassToMySQLTests\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Administrador\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\light\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -30,8 +27,8 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "D:\\GVE\\ClassToMySQL\\ClassToMySQL\\ClassToMySQL.csproj": {
-                "projectPath": "D:\\GVE\\ClassToMySQL\\ClassToMySQL\\ClassToMySQL.csproj"
+              "F:\\GVE\\ClassToMySQL\\ClassToMySQL\\ClassToMySQL.csproj": {
+                "projectPath": "F:\\GVE\\ClassToMySQL\\ClassToMySQL\\ClassToMySQL.csproj"
               }
             }
           }
@@ -81,20 +78,17 @@
         }
       }
     },
-    "D:\\GVE\\ClassToMySQL\\ClassToMySQL\\ClassToMySQL.csproj": {
+    "F:\\GVE\\ClassToMySQL\\ClassToMySQL\\ClassToMySQL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GVE\\ClassToMySQL\\ClassToMySQL\\ClassToMySQL.csproj",
+        "projectUniqueName": "F:\\GVE\\ClassToMySQL\\ClassToMySQL\\ClassToMySQL.csproj",
         "projectName": "ClassToMySQL",
-        "projectPath": "D:\\GVE\\ClassToMySQL\\ClassToMySQL\\ClassToMySQL.csproj",
-        "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
-        "outputPath": "D:\\GVE\\ClassToMySQL\\ClassToMySQL\\obj\\",
+        "projectPath": "F:\\GVE\\ClassToMySQL\\ClassToMySQL\\ClassToMySQL.csproj",
+        "packagesPath": "C:\\Users\\light\\.nuget\\packages\\",
+        "outputPath": "F:\\GVE\\ClassToMySQL\\ClassToMySQL\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Administrador\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\light\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
